@@ -4,7 +4,8 @@ cv2-tools
 numpy
 dlib
 keras
-TensorFlow==2.15.0
+tensorflow==2.15.0
 requests
 playsound
+
 pydub
